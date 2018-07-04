@@ -1,8 +1,11 @@
-# Researcher
+# Giovanni Maffei's personal website
 
 ### [Demo Website](http://ankitsultana.com/researcher)
 
-A clean, single column, monospace resume template built for jekyll
+
+layout based on:
+
+<!-- A clean, single column, monospace resume template built for jekyll
 
 ### Installation
 
@@ -36,3 +39,4 @@ appropriate variables in `_config.yml`
 ### License
 
 [GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+ -->

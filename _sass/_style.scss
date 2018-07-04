@@ -11,8 +11,9 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Helvetica";
     height: 100%;
+    font-size: 14px;
 }
 a {
     text-decoration: none;
@@ -38,13 +39,15 @@ hr {
     display: inline-block;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    padding: 20px 0 50px 0;
 }
 .navbar-ul {
+    font-size: 18px;
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
     margin-left: 20px;
+
 }
 .nav-list {
     list-style-type: none;

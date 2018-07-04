@@ -39,10 +39,35 @@
     .profile-picture {
         height: $image-size;
         width: $image-size;
+
+        height: 180px;
+        width: 180px;
+
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
         border-radius: 50%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+    .other-picture {
+        height: $image-size;
+        width: $image-size;
+
+        height: 160px;
+        width: 160px;
+
+        position: relative;
+        margin: -10px 0 0 15px;
+        float: right;
+        border-radius: 0%;
         p & {
             padding: 0;
             margin: 0;

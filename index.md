@@ -2,24 +2,44 @@
 layout: default
 ---
 
-## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="images/gm_pic.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+### Bio 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am Postoctoral Research Fellow at [Institute for Bioengineering of Catalunya (IBEC)](http://www.ibecbarcelona.eu/) and [Barcelona Institute of Science and Technology (BIST)](http://bist.eu/). I am Lecturer in cognitive science and computational neuroscience at [Universitat Pompeu Fabra](www.upf.edu). I hold a Ph.D. (Magna Cum Laude) in Computational Neuroscience from Universitat Pompeu Fabra, a M.Sc. in Cognitive Systems & Interactive Media and a BSc (Magna Cum Laude) in Psychology.
 
-## Research Interest
+<!-- Before starting my path in ha academia, I've been working for several years as Business Data Analyst for the Viacom group and Mondadori group. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+### Research 
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+I study the diverse ways the brain controls behavior in order to understand cognition in health and disease. I apply machine learning and data science techniques to behavioral and neural data in order to decode and predict how decisions are made. I design neural networks and control architectures to emulate biological learning principles in software and robots that adapt to the world.
 
-## Typography
+Visit the *projects section* to know more about my research interests.
+
+### Contacts
+
+If you wish to get in touch, just drop me an email at *name(dot)surname(at)gmail(dot)com*
+or reach me on any of the following platforms:
+
+*[LinkedIN](https://www.linkedin.com/in/giovanni-maffei-phd-7707845/)*
+
+*[Google Scholar](https://scholar.google.es/citations?user=ClO5slYAAAAJ&hl=it)*
+
+*[Researchgate](https://www.researchgate.net/profile/Giovanni_Maffei)*
+
+*[Twitter](https://twitter.com/GioMaffei)*
+
+
+
+
+
+
+
+
+
+<!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -43,3 +63,4 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
+ -->

@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: GIOVANNI MAFFEI Ph.D.
+url: "https://giovannimaffei.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -7,8 +7,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/bk2dcradle"
-footer_text: "Page design by Ankit Sultana"
+footer_url: ""
+footer_text: "CC Giovanni Maffei (2018) - Original design by Ankit Sultana "
 
 sass:
     style: compressed
