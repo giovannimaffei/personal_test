@@ -1,9 +1,7 @@
-# Giovanni Maffei's personal website
-
-### [Demo Website](http://ankitsultana.com/researcher)
+# [Giovanni Maffei's personal website](https://giovannimaffei.github.io/personal_test/)
 
 
-layout based on:
+<!-- layout based on: -->
 
 <!-- A clean, single column, monospace resume template built for jekyll
 
