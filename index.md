@@ -7,7 +7,7 @@ layout: default
 
 ### Bio 
 
-I am Postoctoral Research Fellow at [Institute for Bioengineering of Catalunya (IBEC)](http://www.ibecbarcelona.eu/) and [Barcelona Institute of Science and Technology (BIST)](http://bist.eu/). I am Lecturer in cognitive science and computational neuroscience at [Universitat Pompeu Fabra](www.upf.edu). I hold a Ph.D. (Magna Cum Laude) in Computational Neuroscience from Universitat Pompeu Fabra, a M.Sc. in Cognitive Systems & Interactive Media and a BSc (Magna Cum Laude) in Psychology.
+I am a Postdoctoral Research Fellow at the [Institute for Bioengineering of Catalunya (IBEC)](http://www.ibecbarcelona.eu/) and the [Barcelona Institute of Science and Technology (BIST)](http://bist.eu/). I am a Lecturer in cognitive science and computational neuroscience at the [Universitat Pompeu Fabra](www.upf.edu). I hold a Ph.D. (Magna Cum Laude) in Computational Neuroscience from Universitat Pompeu Fabra, an M.Sc. in Cognitive Systems & Interactive Media and a BSc (Magna Cum Laude) in Psychology.
 
 <!-- Before starting my path in ha academia, I've been working for several years as Business Data Analyst for the Viacom group and Mondadori group. -->
 
